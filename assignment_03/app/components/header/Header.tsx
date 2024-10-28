@@ -1,5 +1,4 @@
 import Link from "next/link";
-import config from "@/tailwind.config";
 
 export default function Header() {
   const hover =
