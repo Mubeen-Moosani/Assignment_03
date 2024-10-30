@@ -51,7 +51,7 @@ const Footer = () => {
                 </Link>
                 <Link
                   target="_blank"
-                  href="www.linkedin.com/in/mubeen-moosani-22668b289"
+                  href="http://www.linkedin.com/in/mubeen-moosani-22668b289"
                 >
                   <img
                     className="hover:bg-yellow-400"
